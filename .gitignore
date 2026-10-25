@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 环境变量及密钥
+.env
+.env.*
+
+# RAG 本地数据
+chroma_db/
+chat_history/
+data/md5.txt

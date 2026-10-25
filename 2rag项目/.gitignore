@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# API Key / 环境变量
+.env
+.env.*
+
+# 向量数据库
+chroma_db/
+
+# 聊天历史
+chat_history/
+
+# MD5记录
+data/md5.txt
